@@ -1,0 +1,22 @@
+{
+  "name": "new-repos56",
+  "version": "1.0.0",
+  "description": "Grad background",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draturi95/new-repos56.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draturi95/new-repos56/issues"
+  },
+  "homepage": "https://github.com/draturi95/new-repos56#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,3 +1,13 @@
+// import {without} from lodash 
+
+// console.log(without);
+
+var _ = require('lodash'); 
+
+const array = [1,2,3,4,5,6,7]; 
+console.log('answer: ', _.without(array, 3)); 
+
+
 let css = document.querySelector('h3'); 
 
 let color1 = document.querySelector('.color1');
